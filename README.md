@@ -1,16 +1,36 @@
-## Hi there 👋
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coder GIF" width="420" height="280">
 
-<!--
-**lbnm203/lbnm203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Le Ba Nhat Minh 👋
 
-Here are some ideas to get you started:
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-NhậtMinh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](<[https://www.linkedin.com/in/minhle203/](https://www.linkedin.com/in/minhle203/)>) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail Badge](https://img.shields.io/badge/-lebanhatminh1303@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lebanhatminh1303@gmail.com)](mailto:lebanhatminh1303@gmail.com)
+
+- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+- ⚡ Fun fact: It's not a bug, It's a feature.😎
+
+💻 **Things I love**
+
+- Python <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30">
+- Machine Learning 🧐
+- Deep Learning 😬
+- Data Science 💻
+
+    <a href="https://github.com/lbnm203/github-readme-stats" title="Go to Source">
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=lbnm203&show_icons=true&theme=radical" />
+    </a>
+
+🛠**Tech Stack**
+
+![Python](https://img.shields.io/badge/-python-000000?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?logo=visual-studio-code&logoColor=007ACC)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+
+<!-- ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow) -->
+<!-- ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch) -->
+<!-- ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv) -->
+
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
