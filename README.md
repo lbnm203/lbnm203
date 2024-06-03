@@ -20,16 +20,15 @@
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=lbnm203&show_icons=true&theme=radical" />
     </a>
 
-🛠**Tech Stack**
+🤖 **I'm Currenly Learning**
 
 ![Python](https://img.shields.io/badge/-python-000000?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000000?logo=visual-studio-code&logoColor=007ACC)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-
-<!-- ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow) -->
-<!-- ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch) -->
-<!-- ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv) -->
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
