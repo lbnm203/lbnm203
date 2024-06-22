@@ -6,7 +6,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-lebanhatminh1303@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lebanhatminh1303@gmail.com)](mailto:lebanhatminh1303@gmail.com)
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+<!-- - 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/) -->
 - ⚡ Fun fact: It's not a bug, It's a feature.😎
 
 💻 **Things I love**
